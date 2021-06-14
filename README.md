@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+### :briefcase: Intro
+
+- Assistant Lead Software Engineer at [bKash Limited](https://www.bkash.com/).
+- **Machine Learning (ML)** enthusiast
+
+### :mailbox_with_mail: Find me at
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmadwasi/)](https://www.linkedin.com/in/grtushar/)
+
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=grtushar&show_icons=true&hide_border=False)](https://github.com/grtushar)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grtushar&layout=compact)](https://github.com/grtushar)
 <!--
 **grtushar/grtushar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
