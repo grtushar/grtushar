@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### :briefcase: Intro
+### :briefcase: Brief Intro
 
 - Assistant Lead Software Engineer at [bKash Limited](https://www.bkash.com/).
 - **Machine Learning (ML)** enthusiast
