@@ -2,11 +2,9 @@
 
 ### :briefcase: Brief Intro
 
-- Assistant Lead Software Engineer at [bKash Limited](https://www.bkash.com/).
 - Around five years of professional software development experience
 - Extensive data structure and algorithmic background
 - Habituated to write clean and less code
-- **Machine Learning (ML)** enthusiast
 - Love to play & watch cricket and chess
 
 ### :mailbox_with_mail: Find me at
