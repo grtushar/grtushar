@@ -2,7 +2,7 @@
 
 ### :briefcase: Brief Intro
 
-- Around **SIX** years of professional software development experience
+- Around **SEVEN** years of professional software development experience
 - Extensive data structure and algorithmic background
 - Habituated to write clean and less code
 - Love to play & watch cricket and chess
