@@ -2,9 +2,11 @@
 
 ### :briefcase: Brief Intro
 
-- Around **EIGHT** years of professional software development experience
+- Around EIGHT years of professional software development experience
 - Extensive data structure and algorithmic background
 - Habituated to write clean and less code
+- Tech Agnostic
+- Machine Learning Enthusiastic
 - Love to play & watch cricket and chess
 
 ### :mailbox_with_mail: Find me at
